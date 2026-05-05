@@ -1,0 +1,670 @@
+{
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0db0e9/": {
+        "fingerprint": "50ed107c4f212f67c349c6b9e19ad761",
+        "raw_data": {
+            "h1_title": "Диски Porsche Boxster 2004",
+            "brand": "Porsche",
+            "price_raw": "34999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_325.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_326.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_327.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_328.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_329.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Boxster",
+                "Кузов": "986",
+                "Двигатель": "M96.23",
+                "Год": "2004",
+                "Номер по производителю": "99636211200",
+                "Производитель": "VAG",
+                "Кросс-номера": "99636211400"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Porsche Boxster 986. Привезены из Японии. Без сварки и трещин. 6Jx16 ET50 7Jx16 ET40",
+            "sales_notes": "В наличии Москва. 34 999₽",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Porsche",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Porsche Boxster 2004",
+                    "description": "Оригинальные диски Porsche Boxster 986. Привезены из Японии. Без сварки и трещин. Размеры: 6Jx16 ET50, 7Jx16 ET40. В наличии в Москве."
+                },
+                {
+                    "title": "Диски Porsche Boxster 2004",
+                    "description": "Контрактные диски Porsche Boxster 986. Состояние отличное, без дефектов. Размеры: 6Jx16 ET50, 7Jx16 ET40. Цена 34 999₽."
+                },
+                {
+                    "title": "Диски Porsche Boxster 2004",
+                    "description": "Оригинальные диски Porsche Boxster 986 M96.23. Привезены из Японии. Без сварки и трещин. Размеры: 6Jx16 ET50, 7Jx16 ET40."
+                },
+                {
+                    "title": "Диски Porsche Boxster 2004",
+                    "description": "Диски Porsche Boxster 986. Номер 99636211200. Размеры: 6Jx16 ET50, 7Jx16 ET40. В наличии на складе в Москве."
+                },
+                {
+                    "title": "Диски Porsche Boxster 2004",
+                    "description": "Оригинальные диски Porsche Boxster 2004. Кузов 986, двигатель M96.23. Привезены из Японии. Без сварки и трещин."
+                },
+                {
+                    "title": "Диски Porsche Boxster 2004",
+                    "description": "Контрактные диски Porsche Boxster 986. Размеры: 6Jx16 ET50, 7Jx16 ET40. Состояние отличное. Цена 34 999₽."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [деталь] [марка] [модель] [год]. Привезены из Японии. Без сварки и трещин. [размеры]",
+            "collection_description": "Контрактная Диски Porsche Boxster (кузов 986, двс M96.23)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:58:34.467258"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf3d/": {
+        "fingerprint": "d3eef0d16af941e6a58aa1a436b9ff73",
+        "raw_data": {
+            "h1_title": "Диски передние Porsche Macan GTS 2017",
+            "brand": "Porsche",
+            "price_raw": "36999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_424.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_425.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_426.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_427.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_428.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Macan GTS",
+                "Кузов": "95B",
+                "Двигатель": "DCNA",
+                "Год": "2017",
+                "Номер по производителю": "95B601025BF",
+                "Производитель": "VAG",
+                "Размер": "9Jx20 ET26"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальный диск Porsche Macan GTS 95B. Без сварки и трещин. Привезен из Японии. 9Jx20 ET26",
+            "sales_notes": "В наличии на складе Москва. ID 151613",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Porsche",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски передние Porsche Macan GTS 2017",
+                    "description": "Оригинальный диск Porsche Macan GTS 95B. Без сварки и трещин. Привезен из Японии. Размер 9Jx20 ET26. Номер 95B601025BF."
+                },
+                {
+                    "title": "Диски передние Porsche Macan GTS 2017",
+                    "description": "Контрактный диск передний для Porsche Macan GTS 2017. Оригинал VAG. Состояние отличное, без дефектов."
+                },
+                {
+                    "title": "Диски передние Porsche Macan GTS 2017",
+                    "description": "Передний диск Porsche Macan GTS 2017 95B. Оригинальный номер 95B601025BF. Размер 9Jx20 ET26. Япония."
+                },
+                {
+                    "title": "Диски передние Porsche Macan GTS 2017",
+                    "description": "Оригинальный диск передний Porsche Macan GTS 2017. Без сварки и трещин. Привезен из Японии. 9Jx20 ET26."
+                },
+                {
+                    "title": "Диски передние Porsche Macan GTS 2017",
+                    "description": "Диск передний Porsche Macan GTS 2017 95B DCNA. Оригинал VAG. Номер 95B601025BF. Состояние отличное."
+                },
+                {
+                    "title": "Диски передние Porsche Macan GTS 2017",
+                    "description": "Передний диск для Porsche Macan GTS 2017. Оригинальный, без сварки и трещин. Размер 9Jx20 ET26. Япония."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальный [деталь] [марка] [модель] [год]. Без сварки и трещин. Привезен из Японии. [размер]",
+            "collection_description": "Контрактная Диски Porsche Macan GTS (кузов 95B, двс DCNA)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:58:58.647890"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e21f0/": {
+        "fingerprint": "4a11eb1a8084cbff2769c19c196a61e3",
+        "raw_data": {
+            "h1_title": "Диски Porsche Boxster 1997 986",
+            "brand": "Porsche",
+            "price_raw": "40999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_502.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_503.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_504.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_505.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_506.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Boxster",
+                "Кузов": "986",
+                "Двигатель": "M96.20",
+                "Год": "1997",
+                "Номер по производителю": "99636212400",
+                "Производитель": "VAG",
+                "Кросс-номера": "99636212605",
+                "ID товара": "122608"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Без сварки и трещин, есть повреждения на лицевой части Разноширокие 7J17 ET55 8.5J17 ET50",
+            "sales_notes": "Сняты с Porsche Boxster 1997, ID 122608",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Porsche",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Porsche Boxster 1997 986",
+                    "description": "Оригинальные диски с Porsche Boxster 1997. Без сварки и трещин, есть повреждения на лицевой части. Разноширокие: 7J17 ET55 и 8.5J17 ET50. Номер 99636212400."
+                },
+                {
+                    "title": "Диски Porsche Boxster 1997 986",
+                    "description": "Контрактные диски от Porsche Boxster 1997 (986, M96.20). Оригинал, без сварки и трещин. Повреждения на лицевой части. Разноширокие 7J17 ET55 / 8.5J17 ET50."
+                },
+                {
+                    "title": "Диски Porsche Boxster 1997 986",
+                    "description": "Оригинальные диски VAG для Porsche Boxster 1997. Состояние: без сварки и трещин, есть повреждения на лицевой части. Разноширокие 7J17 ET55 и 8.5J17 ET50."
+                },
+                {
+                    "title": "Диски Porsche Boxster 1997 986",
+                    "description": "Диски от Porsche Boxster 1997 года (кузов 986, двигатель M96.20). Оригинал, без сварки и трещин. Повреждения на лицевой части. Разноширокие: 7J17 ET55, 8.5J17 ET50."
+                },
+                {
+                    "title": "Диски Porsche Boxster 1997 986",
+                    "description": "Оригинальные диски с разборки Porsche Boxster 1997. Без сварки и трещин, есть повреждения на лицевой части. Разноширокие 7J17 ET55 и 8.5J17 ET50. Номер 99636212400."
+                },
+                {
+                    "title": "Диски Porsche Boxster 1997 986",
+                    "description": "Контрактные диски Porsche Boxster 1997 (986). Оригинал, без сварки и трещин. Повреждения на лицевой части. Разноширокие: 7J17 ET55, 8.5J17 ET50. Кросс-номер 99636212605."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] [Кузов] [Двигатель]. Без сварки и трещин, есть повреждения на лицевой части. Разноширокие [размеры]. Номер [номер].",
+            "collection_description": "Контрактная Диски Porsche Boxster (кузов 986, двс M96.20)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:59:27.751634"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0db23f/": {
+        "fingerprint": "f58cc1da0d4377f35a02ddb3baac037b",
+        "raw_data": {
+            "h1_title": "Диски Porsche Macan 2016",
+            "brand": "Porsche",
+            "price_raw": "53999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_433.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_434.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_435.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_436.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_437.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Macan",
+                "Кузов": "95B",
+                "Двигатель": "CNCC",
+                "Год": "2016",
+                "Номер по производителю": "95B601025AP",
+                "Производитель": "VAG",
+                "Кросс-номера": "95B601025AQ",
+                "Размер": "8Jx18 ET21 / 9Jx18 ET21"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Porsche Macan 95B. Привезены из Японии. Без сварки и трещин. Есть дефекты на лицевой части. 8Jx18 ET21 9Jx18 ET21",
+            "sales_notes": "В наличии в Москве. Цена 53 999₽",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Porsche",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Porsche Macan 2016",
+                    "description": "Оригинальные диски Porsche Macan 95B. Привезены из Японии. Без сварки и трещин. Есть дефекты на лицевой части. Размер 8Jx18 ET21 / 9Jx18 ET21."
+                },
+                {
+                    "title": "Диски Porsche Macan 2016",
+                    "description": "Контрактные диски Porsche Macan 2016. Состояние б/у, без сварки и трещин. Дефекты на лицевой части. Размер 8Jx18 ET21 / 9Jx18 ET21."
+                },
+                {
+                    "title": "Диски Porsche Macan 2016",
+                    "description": "Оригинальные диски Porsche Macan 95B. Привезены из Японии. Без сварки и трещин. Есть дефекты на лицевой части. Размер 8Jx18 ET21 / 9Jx18 ET21."
+                },
+                {
+                    "title": "Диски Porsche Macan 2016",
+                    "description": "Контрактные диски Porsche Macan 2016. Состояние б/у, без сварки и трещин. Дефекты на лицевой части. Размер 8Jx18 ET21 / 9Jx18 ET21."
+                },
+                {
+                    "title": "Диски Porsche Macan 2016",
+                    "description": "Оригинальные диски Porsche Macan 95B. Привезены из Японии. Без сварки и трещин. Есть дефекты на лицевой части. Размер 8Jx18 ET21 / 9Jx18 ET21."
+                },
+                {
+                    "title": "Диски Porsche Macan 2016",
+                    "description": "Контрактные диски Porsche Macan 2016. Состояние б/у, без сварки и трещин. Дефекты на лицевой части. Размер 8Jx18 ET21 / 9Jx18 ET21."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [Товар] [Марка] [Модель] [Год] [Кузов]. Привезены из Японии. Без сварки и трещин. Есть дефекты на лицевой части. [Размер].",
+            "collection_description": "Контрактная Диски Porsche Macan (кузов 95B, двс CNCC)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:59:53.484831"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0ecb47/": {
+        "fingerprint": "a1b85d8940e1db8774742b0c85e96adc",
+        "raw_data": {
+            "h1_title": "Диски Porsche Panamera Turbo 2010",
+            "brand": "Porsche",
+            "price_raw": "54999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_683.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски с авто Porsche Panamera Turbo 2010, 21\", VAG",
+            "sales_notes": "Oz racing botticelli iii, 10.5JX21H2 E52, 9.5JX21H2 E52",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Porsche",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Porsche Panamera Turbo 2010",
+                    "description": "Оригинальные диски с Porsche Panamera Turbo 2010, 21 дюйма, модель Oz racing botticelli iii, размеры 10.5JX21H2 E52 и 9.5JX21H2 E52, произведены в Италии"
+                },
+                {
+                    "title": "Диски Panamera Turbo 2010",
+                    "description": "Контрактные диски от Porsche Panamera Turbo 2010, кузов 970, двигатель 4870, номер 970970970970, производитель VAG"
+                },
+                {
+                    "title": "Диски Porsche Panamera Turbo 970",
+                    "description": "Комплект дисков с Porsche Panamera Turbo 2010, 21\", Oz racing botticelli iii, Италия, состояние б/у, в наличии в Москве"
+                },
+                {
+                    "title": "Диски Panamera Turbo 2010 970",
+                    "description": "Оригинальные диски VAG для Porsche Panamera Turbo 2010, размеры 10.5JX21H2 и 9.5JX21H2, вылет E52, сняты с авто"
+                },
+                {
+                    "title": "Диски Porsche Panamera 2010",
+                    "description": "Диски от Porsche Panamera Turbo 2010 года, 21 дюйм, модель Oz racing botticelli iii, произведены в Италии, в наличии"
+                },
+                {
+                    "title": "Диски Panamera Turbo 970 2010",
+                    "description": "Комплект дисков 21\" с Porsche Panamera Turbo 2010, кузов 970, двигатель 4870, номер 970970970970, оригинал VAG"
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Размер] [Производитель]",
+            "collection_description": "Контрактная Диски Porsche Panamera Turbo 2010",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:00:05.953731"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0db23a/": {
+        "fingerprint": "482abd36f8a674fd488ccaf5c800da69",
+        "raw_data": {
+            "h1_title": "Диски Porsche Boxster 2001 986",
+            "brand": "Porsche",
+            "price_raw": "59999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_331.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Porsche Boxster 986. Без сварки и трещин. 7Jx17 ET55 8.5Jx17 ET48",
+            "sales_notes": "Сняты с Porsche Boxster 2001. В наличии в Москве",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Porsche",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Porsche Boxster 2001 986",
+                    "description": "Оригинальные диски Porsche Boxster 986. Без сварки и трещин. Размеры: 7Jx17 ET55 и 8.5Jx17 ET48. Сняты с автомобиля 2001 года."
+                },
+                {
+                    "title": "Диски Porsche Boxster 2001 986",
+                    "description": "Контрактные диски Porsche Boxster 986. Состояние: без сварки и трещин. Параметры: 7Jx17 ET55, 8.5Jx17 ET48."
+                },
+                {
+                    "title": "Диски Porsche Boxster 2001 986",
+                    "description": "Оригинальные диски от Porsche Boxster 986. Размеры: 7Jx17 ET55 и 8.5Jx17 ET48. Без дефектов сварки и трещин."
+                },
+                {
+                    "title": "Диски Porsche Boxster 2001 986",
+                    "description": "Диски Porsche Boxster 986 в хорошем состоянии. Без сварки и трещин. Ширина 7J и 8.5J, вылет ET55 и ET48."
+                },
+                {
+                    "title": "Диски Porsche Boxster 2001 986",
+                    "description": "Оригинальные диски Porsche Boxster 986. Сняты с авто 2001 года. Размеры: 7Jx17 ET55, 8.5Jx17 ET48. Без сварки и трещин."
+                },
+                {
+                    "title": "Диски Porsche Boxster 2001 986",
+                    "description": "Контрактные диски Porsche Boxster 986. Параметры: 7Jx17 ET55 и 8.5Jx17 ET48. Состояние: без сварки и трещин."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [деталь] [марка] [модель] [кузов]. Без сварки и трещин. [размеры]",
+            "collection_description": "Контрактная Диски Porsche Boxster 2001 986",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:00:18.438299"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfde7/": {
+        "fingerprint": "7579bce281f97f7ddcdfe20f150fbef8",
+        "raw_data": {
+            "h1_title": "Диски Porsche Panamera 4S 2011",
+            "brand": "Porsche",
+            "price_raw": "68999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_850.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_851.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_852.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_853.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_854.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски без пробега по РФ, привезены из Японии. Без сварки и трещин. Параметры: 9Jx19 ET64 10.5Jx19 ET62",
+            "sales_notes": "В наличии на складе Москва",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Porsche",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Porsche Panamera 4S 2011",
+                    "description": "Оригинальные диски без пробега по РФ, привезены из Японии. Без сварки и трещин. Параметры: 9Jx19 ET64 10.5Jx19 ET62. Номер производителя: 971601025A."
+                },
+                {
+                    "title": "Диски Porsche Panamera 4S 2011",
+                    "description": "Контрактные диски с японского аукциона. Состояние отличное, без дефектов. Подходят для Panamera 4S 2011 года."
+                },
+                {
+                    "title": "Диски Porsche Panamera 4S 2011",
+                    "description": "Комплект дисков 9Jx19 ET64 и 10.5Jx19 ET62. Оригинал VAG. Кросс-номер 971601025G."
+                },
+                {
+                    "title": "Диски Porsche Panamera 4S 2011",
+                    "description": "Диски в наличии на складе в Москве. Возможен осмотр перед покупкой. Цена за комплект."
+                },
+                {
+                    "title": "Диски Porsche Panamera 4S 2011",
+                    "description": "Оригинальные диски Porsche Panamera 4S 2011, кузов 970. Сняты с автомобиля. Без пробега по РФ."
+                },
+                {
+                    "title": "Диски Porsche Panamera 4S 2011",
+                    "description": "Параметры: перед 9Jx19 ET64, зад 10.5Jx19 ET62. Номер 971601025A. Подходят для Panamera 4S."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] - оригинальные, без пробега по РФ, привезены из Японии. Без сварки и трещин. Параметры: [размеры]. Номер: [номер].",
+            "collection_description": "Контрактная Диски Porsche Panamera 4S 2011",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:00:44.461594"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf3e/": {
+        "fingerprint": "4ff8db4bc747a0ff6672f9a049985afe",
+        "raw_data": {
+            "h1_title": "Диски задние Porsche Macan GTS 2017",
+            "brand": "Porsche",
+            "price_raw": "74999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_438.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_439.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_440.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_441.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_442.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Macan GTS",
+                "Кузов": "95B",
+                "Двигатель": "DCNA",
+                "Год": "2017",
+                "Номер по производителю": "95B601025BG",
+                "Производитель": "VAG",
+                "Размер": "10Jx20 ET19"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Пара оригинальных дисков Porsche Macan GTS 95B. Привезены из Японии. Без сварки и трещин. 10Jx20 ET19",
+            "sales_notes": "В наличии на складе Москва. ID 151614",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Porsche",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски задние Porsche Macan GTS 2017",
+                    "description": "Пара оригинальных дисков Porsche Macan GTS 95B. Привезены из Японии. Без сварки и трещин. Размер 10Jx20 ET19. Артикул 95B601025BG."
+                },
+                {
+                    "title": "Диски задние Porsche Macan GTS 2017",
+                    "description": "Оригинальные диски Porsche Macan GTS 2017 года. Состояние отличное, без дефектов. Подходят для кузова 95B."
+                },
+                {
+                    "title": "Диски задние Porsche Macan GTS 2017",
+                    "description": "Контрактные диски из Японии для Porsche Macan GTS. Размер 10Jx20 ET19. Номер 95B601025BG."
+                },
+                {
+                    "title": "Диски задние Porsche Macan GTS 2017",
+                    "description": "Комплект задних дисков Porsche Macan GTS 2017. Без сварки и трещин. Производитель VAG."
+                },
+                {
+                    "title": "Диски задние Porsche Macan GTS 2017",
+                    "description": "Оригинальные диски Porsche Macan GTS 95B. Привезены из Японии. Размер 10Jx20 ET19. В наличии."
+                },
+                {
+                    "title": "Диски задние Porsche Macan GTS 2017",
+                    "description": "Диски задние для Porsche Macan GTS 2017. Артикул 95B601025BG. Состояние без сварки и трещин."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски задние [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер по производителю] [Размер]",
+            "collection_description": "Контрактная Диски Porsche Macan GTS (кузов 95B, двс DCNA)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:01:06.705111"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e12cd/": {
+        "fingerprint": "935d5dcbc554cc98d2788a6a93acf0ad",
+        "raw_data": {
+            "h1_title": "Диски Porsche Panamera 4S 2011",
+            "brand": "Porsche",
+            "price_raw": "84999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_746.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_747.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_748.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_749.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_750.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Panamera 4S",
+                "Кузов": "970",
+                "Двигатель": "4840",
+                "Год": "2011",
+                "Номер по производителю": "97036217806",
+                "Производитель": "VAG",
+                "Кросс-номера": "97036219204",
+                "ID товара": "126413"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски. Без варок трещин и ремонтов. Задние: 11j ET68 R20, передние: 9.5j ET65 R20",
+            "sales_notes": "В наличии на складе Москва",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Porsche",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Porsche Panamera 4S 2011",
+                    "description": "Оригинальные диски. Без варок трещин и ремонтов. Задние: 11j ET68 R20, передние: 9.5j ET65 R20. В наличии на складе Москва."
+                },
+                {
+                    "title": "Диски Porsche Panamera 4S 2011",
+                    "description": "Оригинальные диски. Без варок трещин и ремонтов. Задние: 11j ET68 R20, передние: 9.5j ET65 R20. В наличии на складе Москва."
+                },
+                {
+                    "title": "Диски Porsche Panamera 4S 2011",
+                    "description": "Оригинальные диски. Без варок трещин и ремонтов. Задние: 11j ET68 R20, передние: 9.5j ET65 R20. В наличии на складе Москва."
+                },
+                {
+                    "title": "Диски Porsche Panamera 4S 2011",
+                    "description": "Оригинальные диски. Без варок трещин и ремонтов. Задние: 11j ET68 R20, передние: 9.5j ET65 R20. В наличии на складе Москва."
+                },
+                {
+                    "title": "Диски Porsche Panamera 4S 2011",
+                    "description": "Оригинальные диски. Без варок трещин и ремонтов. Задние: 11j ET68 R20, передние: 9.5j ET65 R20. В наличии на складе Москва."
+                },
+                {
+                    "title": "Диски Porsche Panamera 4S 2011",
+                    "description": "Оригинальные диски. Без варок трещин и ремонтов. Задние: 11j ET68 R20, передние: 9.5j ET65 R20. В наличии на складе Москва."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [тип_детали] [марка] [модель] [год]. Без [дефекты]. [размеры]. В наличии на складе [город].",
+            "collection_description": "Контрактная Диски Porsche Panamera 4S (кузов 970, двс 4840)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:01:35.220817"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0db23d/": {
+        "fingerprint": "95d0dd9c1a09d9e87afc70124d5da980",
+        "raw_data": {
+            "h1_title": "Диски Porsche Panamera 2012",
+            "brand": "Porsche",
+            "price_raw": "94999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_390.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_391.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_392.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_393.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_394.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Panamera",
+                "Кузов": "970",
+                "Двигатель": "M4640",
+                "Год": "2012",
+                "Номер по производителю": "97036217806",
+                "Производитель": "VAG",
+                "Кросс-номера": "97036219201"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Porsche Panamera 970. Привезены из Японии. Без сварки и трещин. 9.5Jx20 ET65 11Jx20 ET68",
+            "sales_notes": "Сняты с Porsche Panamera 2012. Номер 97036217806",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Porsche",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Porsche Panamera 2012",
+                    "description": "Оригинальные диски Porsche Panamera 970. Привезены из Японии. Без сварки и трещин. Размеры: 9.5Jx20 ET65, 11Jx20 ET68. Номер: 97036217806."
+                },
+                {
+                    "title": "Диски Porsche Panamera 2012",
+                    "description": "Контрактные диски с Porsche Panamera 2012. Состояние: без сварки и трещин. Размеры: 9.5Jx20 ET65, 11Jx20 ET68. Артикул: 97036217806."
+                },
+                {
+                    "title": "Диски Porsche Panamera 2012",
+                    "description": "Оригинальные диски Porsche Panamera 970. Привезены из Японии. Размеры: 9.5Jx20 ET65, 11Jx20 ET68. Номер производителя: 97036217806."
+                },
+                {
+                    "title": "Диски Porsche Panamera 2012",
+                    "description": "Диски с Porsche Panamera 2012. Без сварки и трещин. Размеры: 9.5Jx20 ET65, 11Jx20 ET68. Кросс-номер: 97036219201."
+                },
+                {
+                    "title": "Диски Porsche Panamera 2012",
+                    "description": "Оригинальные диски Porsche Panamera 970. Привезены из Японии. Размеры: 9.5Jx20 ET65, 11Jx20 ET68. Артикул: 97036217806."
+                },
+                {
+                    "title": "Диски Porsche Panamera 2012",
+                    "description": "Контрактные диски с Porsche Panamera 2012. Состояние: без сварки и трещин. Размеры: 9.5Jx20 ET65, 11Jx20 ET68. Номер: 97036217806."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [Товар] [Марка] [Модель] [Кузов]. Привезены из Японии. Без сварки и трещин. [Размеры]. Номер: [Артикул].",
+            "collection_description": "Контрактная Диски Porsche Panamera (кузов 970, двс M4640)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:02:02.507046"
+    }
+}
